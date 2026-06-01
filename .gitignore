@@ -1,0 +1,26 @@
+# Generated maps and cached data
+JSON_BUS.json
+*_route_lines.geojson
+bus_map_*.svg
+bus_map_*.html
+regal_oriental_*.json
+regal_oriental_*.geojson
+regal_oriental_*.svg
+regal_oriental_*.html
+*.png
+tiles_cartodb_light_nolabels/
+ne_10m_land.geojson
+
+# Local build/cache files
+BusMapStudio
+.swift-module-cache/
+__pycache__/
+*.pyc
+
+# Superseded local prototype
+bus_map_gui.py
+BusMapStudio.swift
+
+# Scratch files captured while exploring data sources
+configJs.js
+csdi_page.html
